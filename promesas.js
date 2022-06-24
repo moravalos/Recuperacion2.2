@@ -1,0 +1,1 @@
+document.getElementById('promesas').innerHTML = "Ejemplos de Promesas" ;
