@@ -1,0 +1,1 @@
+document.getElementById('reduce').innerHTML = "Reduce" ;
